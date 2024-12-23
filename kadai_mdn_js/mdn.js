@@ -1,4 +1,4 @@
-const date = new Date(2024, 9, 12);
+const date = new Date(Date.now());
 const options = {
   year: "numeric",
   month: "long",
